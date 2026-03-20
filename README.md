@@ -21,10 +21,6 @@ Here are some ideas to get you started:
   <img src="https://raw.githubusercontent.com/RajGarai/RajGarai/main/banner.png" width="100%" />
 </p>
 
-<!-- 💻 Coding Animation Banner -->
-<p align="center">
-  <img src="https://media.giphy.com/media/qgQUggAC3Pfv687qPC/giphy.gif" width="80%" />
-</p>
 
 <!-- ⚡ Typing Animation -->
 <p align="center">
