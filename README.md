@@ -167,8 +167,7 @@ Here are some ideas to get you started:
 
 ###
 
-
-## 📈 Contribution Graph
+<h2 align="left">📈 Contribution Graph</h2>
 
 <p align="center">
 <img src="https://github-readme-activity-graph.vercel.app/graph?username=RajGarai&theme=tokyo-night" />
@@ -177,8 +176,8 @@ Here are some ideas to get you started:
 
 ###
 
-## 🌐 Connect With Me
 
+<h2 align="left">🌐 Connect With Me</h2>
 
 <p align="left">
 <a href="mailto:rajgarai03@gmail.com">
